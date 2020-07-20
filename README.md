@@ -1,1 +1,3 @@
-# hello_rust
+# Hello Rust
+
+> Just a repo for testing rust
